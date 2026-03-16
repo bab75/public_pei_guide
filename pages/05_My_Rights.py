@@ -81,7 +81,7 @@ RIGHTS = [
     {
         "title":   "Right to an Independent Educational Evaluation (IEE)",
         "summary": "If you disagree with the school's evaluation, you can ask for an evaluation done by an independent evaluator at the school's expense. The school must either pay for it or file for a due process hearing to defend their evaluation.",
-        "what_to_say": '"I disagree with the school's evaluation. I am requesting an Independent Educational Evaluation at public expense."',
+        "what_to_say": "\"I disagree with the school's evaluation. I am requesting an Independent Educational Evaluation at public expense.\"",
         "if_refused": "The school must either pay for the IEE or immediately file for a due process hearing. They cannot simply deny the request.",
         "query": "independent educational evaluation IEE public expense disagree",
         "law": "IDEA § 300.502",
